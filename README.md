@@ -1,5 +1,5 @@
 # Retail-Management-Using-Salesforce
-Video Demonstration: https://drive.google.com/file/d/1BomSDhDKjd9y2oObPXxo9l3_NgdflOwM/view?usp=drivesdk
+Video Demonstration: https://photos.app.goo.gl/77BcFGGHAAcXDCyG9
 
 Trailhead Profile URL
 
